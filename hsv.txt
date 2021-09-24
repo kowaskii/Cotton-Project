@@ -1,0 +1,6 @@
+H 0 15
+S 0 70
+V 130 255
+
+1.python dosyasında videodaki pamukların tespiti yapılıyor.
+2.python dosyasındaki kodlar optimum hsv değerlerini bulmamızı sağlıyor.
